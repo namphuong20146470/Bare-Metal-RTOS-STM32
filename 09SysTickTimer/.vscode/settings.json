@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "i2c.h": "c",
+        "string.h": "c",
+        "spi.h": "c",
+        "adc.h": "c",
+        "usart.h": "c",
+        "stdio.h": "c",
+        "task.h": "c"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "usart.h": "c",
+        "led.h": "c",
+        "adc.h": "c",
+        "compare": "c",
+        "stdio.h": "c",
+        "i2c.h": "c"
+    }
+}
